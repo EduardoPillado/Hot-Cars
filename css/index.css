@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Open+Sans:wght@500&display=swap');
+
+.fondo{
+			background-color: white ;
+			margin-left: 70px;
+	margin-right: 40px;
+}
+
+.xd{
+	color: darkred;
+    text-align: center;
+	font-size: 50px;
+	
+	text-decoration: none;
+
+}
+
+.diseño{
+	background-color: #009CDE ;
+	display: flex;	
+	justify-content: space-evenly;
+}
+
+.diseño2{
+	background-color:#FAA61B ;
+	display: flex;	
+		justify-content: space-evenly;
+	
+}
+
+
+
+.fotos_motos{
+	border-radius: 5%;
+	width: 650px;
+	height: 400px;
+}
+
+.textos {	
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: open sans;
+	text-align: center;
+}
+.textos h2{
+	font-family: unset;
+	font-size: 35px;
+	color: #333;
+	font-style: italic;
+}
+.textos p{
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+}
+.boton_d{
+	width: 150px;
+	height: 50px;
+    border-radius: 15px;
+    background-color: #333;
+    color: white;
+    border: none;
+}
+
+.circulos {
+	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.circulos img {
+	border-radius: 75%;
+	width: 250px;
+	height: 250px;
+	align-items: center;
+}
+
+.circulos h4 {
+	color: #333;
+	font-family: Open sans;
+}
